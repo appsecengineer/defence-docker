@@ -1,0 +1,7 @@
+Flask
+Flask-WTF
+peewee
+Pillow
+WeasyPrint==61
+bcrypt
+tornado
